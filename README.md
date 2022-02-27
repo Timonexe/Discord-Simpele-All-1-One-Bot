@@ -1,30 +1,12 @@
-# Discord.js Moderation Bot
 
-### For Visual Studio Code Users -  
-#### Requirements & Steps :-
-* This Project
-* Node.js, Discord.js Installed
-* Discord Bot Token, Prefix
-* Edit the `config.js and owner.json` file
-* Run `npm i` once in Terminal to install Dependencies
-* Run `node index.js` to ***RUN*** the bot.
+# Discord Simpele All 1 One Bot
 
-### For replit users -
-#### Requirements & Steps
-* Discord Bot Token, Prefix
-* Edit the `config.js, owner.json, config.json and emojis.json` file.
-* Go to **commands** section in repl and Then to **🔒secrets**.
-* Edit the **TOKEN** and paste the token in Value.
-* Run `npm i` once in Terminal to install Dependencies
-* Run `node index.js` to ***RUN*** the bot.
-
-
-#### Features & Info
-* Author: `Felix_PlaYZ#1000`
-* Moderation Bot built to manage discord servers.
-* This bot has all the premium commands too. Hackban/forceban [Type of ip ban] is also available
-* Modular Discord bot built entirely on pure JavaScript using Discord.JS.
-* Modlogs for all the actions.
+#### Over De Bot
+* Door: `</Timon.exe>#5170`
+* Moderatie Bot gebouwd om discord-servers te beheren.
+* Deze bot heeft ook alle premium-opdrachten. Hackban/forceban [Type ip-ban] is ook beschikbaar
+* Modulaire Discord-bot die volledig is gebouwd op pure JavaScript met behulp van Discord.JS.
+* Modlogs voor alle acties.
 
 #### Commands
 * Ban | Unban
@@ -50,5 +32,20 @@
 * Show Warns
 * Say
 
-# Contributors:
- * [Felix_PlaYz](https://github.com/gtagamermods) - Code and Commands
+# Creator:
+ * [Timonexe](https://github.com/Timonexe) - Code En Commands
+## Functies
+
+- Economy
+- Fun
+- Games
+- Image
+- Information
+- Moderator
+
+
+## Licensie
+
+[Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+
